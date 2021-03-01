@@ -1,0 +1,9 @@
+.player-container{
+    padding-top: 25px;
+}
+.cart-container{
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 11px;
+    margin-top: 40px;
+}
